@@ -7,6 +7,7 @@ public class Box2 extends Box{
 
     @Override
     public String toString() {
-        return super.toString();
+        return "NO.2";
+
+        }
     }
-}
